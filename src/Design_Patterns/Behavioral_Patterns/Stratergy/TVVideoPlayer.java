@@ -1,4 +1,4 @@
-package Stratergy;
+package Design_Patterns.Behavioral_Patterns.Stratergy;
 
 public class TVVideoPlayer extends VideoPlayer{
     public TVVideoPlayer(Device device,Resolution resolution) {

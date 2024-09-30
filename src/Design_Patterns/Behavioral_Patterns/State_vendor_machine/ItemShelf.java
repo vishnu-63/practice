@@ -1,4 +1,4 @@
-package State_vendor_machine;
+package Design_Patterns.Behavioral_Patterns.State_vendor_machine;
 
 public class ItemShelf {
 

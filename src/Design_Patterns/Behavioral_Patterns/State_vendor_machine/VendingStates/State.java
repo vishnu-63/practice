@@ -1,8 +1,8 @@
-package State_vendor_machine.VendingStates;
+package Design_Patterns.Behavioral_Patterns.State_vendor_machine.VendingStates;
 
-import State_vendor_machine.Coin;
-import State_vendor_machine.Item;
-import State_vendor_machine.VendingMachine;
+import Design_Patterns.Behavioral_Patterns.State_vendor_machine.Coin;
+import Design_Patterns.Behavioral_Patterns.State_vendor_machine.Item;
+import Design_Patterns.Behavioral_Patterns.State_vendor_machine.VendingMachine;
 
 import java.util.List;
 

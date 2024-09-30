@@ -1,6 +1,6 @@
-package State_vendor_machine;
+package Design_Patterns.Behavioral_Patterns.State_vendor_machine;
 
-import State_vendor_machine.VendingStates.State;
+import Design_Patterns.Behavioral_Patterns.State_vendor_machine.VendingStates.State;
 
 public class Main {
 

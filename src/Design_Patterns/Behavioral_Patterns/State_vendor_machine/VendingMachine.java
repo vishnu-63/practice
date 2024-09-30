@@ -1,7 +1,7 @@
-package State_vendor_machine;
+package Design_Patterns.Behavioral_Patterns.State_vendor_machine;
 
-import State_vendor_machine.VendingStates.State;
-import State_vendor_machine.VendingStates.impl.IdleState;
+import Design_Patterns.Behavioral_Patterns.State_vendor_machine.VendingStates.State;
+import Design_Patterns.Behavioral_Patterns.State_vendor_machine.VendingStates.impl.IdleState;
 
 import java.util.ArrayList;
 import java.util.List;

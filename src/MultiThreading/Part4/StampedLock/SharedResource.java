@@ -1,8 +1,5 @@
 package MultiThreading.Part4.StampedLock;
 
-import State_vendor_machine.VendingStates.State;
-
-import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.locks.StampedLock;
 
 public class SharedResource {

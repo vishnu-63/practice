@@ -1,4 +1,4 @@
-package Stratergy;
+package Design_Patterns.Behavioral_Patterns.Stratergy;
 
 public class MobileVideoPlayer extends VideoPlayer {
         public MobileVideoPlayer(Device device,Resolution resolution) {
